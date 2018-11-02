@@ -1,5 +1,5 @@
 body {
-  background-color:#FF0000;
+  background-color:#C50D21;
   background-image: url("net.png");
   background-repeat: no-repeat;
   background-position : center;
@@ -17,13 +17,17 @@ h2 {
   font-size:25px;
   font-family: "Verdana", Times, serif;
   letter-spacing: 2px;
+  color:#3c3c3c;
+
 }
 
 p {
   font-family: "Times New Roman";
+  color:#3c3c3c;
 }
 
 ul {
   font-family: "Times New Roman", Times, serif;
   list-style-type: square;
+  color:#3c3c3c;
 }
